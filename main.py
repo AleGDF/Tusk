@@ -1,3 +1,8 @@
+#Nombre: Diego Alejandro Palacios
+#Version: 1.0
+#Fecha: 30/04/2025
+#Descrpción: Hola profe
+
 from separar_par_impar import separarParImpar
 
 # Ejemplo de uso
